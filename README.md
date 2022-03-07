@@ -7,5 +7,4 @@
 > Open the style/site.css, and read carefully each comments, which most of the tasks are identenfied in completing the quiz<br>
 
 <h3>Screenshot</h3>
-![Finish Website](https://github.com/techcodedu/practical_quiz/screenshot/harvard-extension-explore-studentsuccess.png)
-![alt text](https://github.com/techcodedu/practical_quiz/screenshot/harvard-extension-explore-studentsuccess.png?raw=true)
+<img src="screenshot/harvard-extension-explore-studentsuccess.png" alt="Finished Website">
