@@ -7,4 +7,4 @@
 > Open the style/site.css, and read carefully each comments, which most of the tasks are identenfied in completing the quiz<br>
 
 <h3>Screenshot</h3>
-![Sample Output]("https://github.com/techcodedu/practical_quiz/blob/main/screenshot/harvard-extension-explore-studentsuccess.png")
+![Finish Website](https://github.com/techcodedu/practical_quiz/blob/main/screenshot/harvard-extension-explore-studentsuccess.png)
