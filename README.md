@@ -8,3 +8,4 @@
 
 <h3>Screenshot</h3>
 ![Finish Website](https://github.com/techcodedu/practical_quiz/screenshot/harvard-extension-explore-studentsuccess.png)
+![alt text](https://github.com/techcodedu/practical_quiz/screenshot/harvard-extension-explore-studentsuccess.png?raw=true)
