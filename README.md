@@ -1,4 +1,4 @@
-<h1>Practical Quiz</h1>
+<h1>Assessment</h1>
 > Collaborate with your group members and accomplish the task as one.<br>
 > The goal is to test your practical skills in building static website from scratch
 
