@@ -4,7 +4,7 @@
 
 <h3>Quick Notes</h3>
 > Download the the starter file as your boilerplate <br>
-> Open the style/site.css, and read carefully each comments, which most of the tasks are identenfied in completing the quiz<br>
+> Open the style/site.css, and read carefully each comments, which most of the tasks are identenfied in completing the assessment<br>
 
 <h3>Screenshot</h3>
 <img src="screenshot/harvard-extension-explore-studentsuccess.png" alt="Finished Website">
